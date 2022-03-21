@@ -1,0 +1,8 @@
+# app
+fastapi
+uvicorn
+
+# db
+databases[postgresql]
+SQLAlchemy
+alembic
